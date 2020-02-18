@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+Indigo
 Yellow
 Red
 Are these the colors of the rainbow and the unicorn?
